@@ -6,7 +6,7 @@ function setup()
   -- Set the program title
   windowTitle("Homework 6")
 
-  describe('Makes a cityscape')
+  describe('Circle Color Grid')
 
   -- Radius tracking 
   x = 1
