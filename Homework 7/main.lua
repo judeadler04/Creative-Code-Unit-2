@@ -8,7 +8,7 @@ function setup()
 
   describe('Randomization Homework')
 
-  -- Draws random circles and rectangles in different Riso colors with two nested for loops
+  -- Draws random circles in different Riso colors with two nested for loops
   for i = 0, 20, 1 do
     for k = 0, 20, 1 do
       -- This looks takes the nearest whole number in between 0 and 3. I used floor in my other coding classes
